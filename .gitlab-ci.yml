@@ -1,3 +1,9 @@
-
-stages:
-  - deploy
+pages:
+  stage: deploy
+  script:
+    - echo "Copying public dic..."
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
