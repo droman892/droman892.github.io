@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\dist",
+    "\\dist\\css",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\img",
+    "\\src\\js",
+    "\\src\\pug",
+    "\\src\\scss",
+    "\\src\\scss\\components"
+  ],
+  "SelectedNode": "\\dist\\css\\styles.css",
+  "PreviewInSolutionExplorer": false
+}
