@@ -2,13 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\public\\css",
-    "\\src\\assets",
-    "\\src\\assets\\img",
-    "\\src\\js",
-    "\\src\\pug",
-    "\\src\\scss",
-    "\\src\\scss\\components"
+    "\\public\\css"
   ],
   "SelectedNode": "\\public\\css\\styles.css",
   "PreviewInSolutionExplorer": false
