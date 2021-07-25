@@ -6,7 +6,7 @@
 
 ## Description
 
-<p align="center"> This fully responsive website is built using resume template. </p>
+<p align="center"> This fully responsive website is built using the Bootstrap resume template. </p>
 
 ## Preview
 
@@ -54,10 +54,8 @@ Please make sure to update tests as appropriate.
 
 This personal, resume website is maintained by [David Roman](https://www.linkedin.com/in/david-roman-front-end-web-developer/).
 
-Start Bootstrap is an open source library of free Bootstrap themes and templates. Many themes and templates on Start Bootstrap are released under the MIT license.
+Start Bootstrap is an open source library of free [Bootstrap](https://startbootstrap.com) themes and templates. 
 
-- <https://startbootstrap.com>
-- <https://twitter.com/SBootstrap>
 
 ## License
 Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
