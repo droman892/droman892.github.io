@@ -10,7 +10,7 @@
 
 ## Preview
 
-![David Roman | Front-end Web Developer](gif)
+![David Roman | Front-end Web Developer](https://user-images.githubusercontent.com/25372739/126912764-15c890b7-a045-44e1-92e3-d109b3038d96.gif)
 
 [Live Preview](https://david-roman.tech/)
 
