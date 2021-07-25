@@ -20,11 +20,11 @@
 
 ## Status
 
-<p align="center"> <img src="https://img.shields.io/tokei/lines/github/droman892/droman892.github.io.git" /> </p>
+<p align="center"> <img src="https://img.shields.io/tokei/lines/github/droman892/droman892.github.io" /> </p>
 
-<p align="center"> <img src="https://img.shields.io/github/languages/count/droman892/droman892.github.io.git" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/languages/count/droman892/droman892.github.io" /> </p>
 
-<p align="center"> <img src="https://img.shields.io/github/repo-size/droman892/droman892.github.io.git" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/repo-size/droman892/droman892.github.io" /> </p>
 
 ## Download and Installation
 
