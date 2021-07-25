@@ -20,7 +20,7 @@
 
 ## Status
 
-<p align="center"> <img src="https://img.shields.io/tokei/lines/github/droman892/droman892.github.io" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/What%20is%20David%20Up%20To%3F-Coding-blue" /> </p>
 
 <p align="center"> <img src="https://img.shields.io/github/languages/count/droman892/droman892.github.io" /> </p>
 
