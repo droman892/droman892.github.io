@@ -1,6 +1,6 @@
 ![David Roman | Front-end Web Developer](https://user-images.githubusercontent.com/25372739/126908195-8c8b205e-f164-4036-b20f-5352b178a7f8.JPG)
 
-<p align="center"> Welcome!  This is my personal, resume website built using. </p>
+<p align="center"> Welcome, this is my personal, resume website.  Let's connect! </p>
 
 <p align="center"> :mortar_board: :books: :computer: :memo: :necktie: :sunrise_over_mountains: </p>
 
