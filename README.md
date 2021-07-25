@@ -6,7 +6,7 @@
 
 ## Description
 
-This fully responsive website is built using [Bootstrap](https://getbootstrap.com/) resume template.
+<p align="center"> This fully responsive website is built using resume template. </p>
 
 ## Preview
 
