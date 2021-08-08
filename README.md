@@ -52,7 +52,7 @@ Please make sure to update tests as appropriate.
 
 ## About
 
-This personal, resume website is maintained by [David Roman](https://www.linkedin.com/in/david-roman-front-end-web-developer/).
+This personal, resume website is maintained by [David Roman](https://www.linkedin.com/in/david-roman-front-end-engineer/).
 
 Start Bootstrap is an open source library of free [Bootstrap](https://startbootstrap.com) themes and templates. 
 
