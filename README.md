@@ -1,4 +1,4 @@
-![David Roman | Front-end Web Developer](https://user-images.githubusercontent.com/25372739/126908195-8c8b205e-f164-4036-b20f-5352b178a7f8.JPG)
+![David Roman | Front End Engineer](https://user-images.githubusercontent.com/25372739/128737811-fc8cc041-a02a-4dc4-b9b4-90246012763e.JPG)
 
 <p align="center"> Welcome, this is my personal, resume website.  Let's connect! </p>
 
@@ -6,11 +6,13 @@
 
 ## Description
 
-<p align="center"> This fully responsive website is built using the Bootstrap resume template. </p>
+<p align="center"> This fully responsive website is built using the Bootstrap resume template.</p>
+
+<p align="center"> Accordingly, users experiences a fixed, side navigation bar with clickable titles that smooth-scroll to their respective section.  You'll find icons at the top that, on click, direct you to a new tab leading to my Linkedin, GitHub, and Instagram; the fourth icon will initiate my resume to download.  Better yet, have a look yourself! </p>
 
 ## Preview
 
-![David Roman | Front-end Web Developer](https://user-images.githubusercontent.com/25372739/126912764-15c890b7-a045-44e1-92e3-d109b3038d96.gif)
+![David Roman | Front End Engineer](https://user-images.githubusercontent.com/25372739/128744902-483ea338-e399-4a32-9679-485d295b3cf2.gif)
 
 [Live Preview](https://david-roman.tech/)
 
