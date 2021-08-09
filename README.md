@@ -8,7 +8,7 @@
 
 <p align="center"> This fully responsive website is built using the Bootstrap resume template.</p>
 
-<p align="center"> Accordingly, users experiences a fixed, side navigation bar with clickable titles that smooth-scroll to their respective section.  You'll find icons at the top that, on click, direct you to a new tab leading to my Linkedin, GitHub, and Instagram; the fourth icon will initiate my resume to download.  Better yet, have a look yourself! </p>
+<p align="center"> Accordingly, users experience a fixed, side navigation bar with clickable titles that smooth-scroll to their respective section.  You'll find icons at the top that, on click, direct you to a new tab leading to my Linkedin, GitHub, and Instagram; the fourth icon will initiate my resume to download.  Have a look yourself! </p>
 
 ## Preview
 
